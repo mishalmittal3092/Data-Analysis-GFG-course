@@ -29,5 +29,3 @@ COUNT()<br>
 <b>5. SQL Operators:</b><br>
 IN / NOT IN – Matching values in a list<br>
 AND / OR – Combining multiple conditions<br>
-
-<p align="center"><b>Using the MYNTRA PRODUCTS Dataset Solved Following Questions</b>
