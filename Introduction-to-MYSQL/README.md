@@ -4,8 +4,8 @@ This folder contains all MySQL queries, practice codes, and datasets used in lea
 The Folder Contains:
 <br/>
 <br/>
-<b>1- DDL Commands 
+<b>1. DDL Commands 
 <br/>
-2- DML Commands</b>
+2. DML Commands</b>
 
 
