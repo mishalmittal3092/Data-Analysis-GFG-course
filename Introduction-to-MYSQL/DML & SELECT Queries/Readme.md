@@ -1,5 +1,5 @@
 This folder contains my hands-on learning and practice related to DML (Data Manipulation Language) and SELECT Queries in SQL.<br>
-Here, I have worked on performing data operations and retrieving insights from a sample Products Dataset using various SQL commands and functions.
+Here, I have worked on performing data operations and retrieving insights from a sample <b> Myntra Products Dataset</b> using various SQL commands and functions.
 
 Topics Covered:<br>
 <b>1. DML Commands:</b><br>
