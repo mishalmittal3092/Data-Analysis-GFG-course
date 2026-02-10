@@ -6,6 +6,6 @@ The Folder Contains:
 <br/>
 <b>1. DDL Commands 
 <br/>
-2. DML Commands</b>
+2. DML & SELECT Queries</b>
 
 
