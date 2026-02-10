@@ -1,4 +1,4 @@
-This folder contains all MySQL queries, practice codes, and datasets used during learning journey as part of the GFG (GeeksforGeeks) Course.
+This folder contains all MySQL queries, practice codes, and datasets used in learning journey as part of the GFG (GeeksforGeeks) live Course.
 <br/>
 
 The Folder Contains:
