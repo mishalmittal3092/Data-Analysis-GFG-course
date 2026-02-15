@@ -1,2 +1,12 @@
 # Data-Analysis-GFG-course
 Portfolio of Learning and projects completed during the GeeksforGeeks 6-month live Data Analysis program, focusing on real-world data analysis using Python, SQL, Excel, and visualization through Tableau and PowerBi.
+
+Table Of Contents:<b>
+1. Introduction To SQL</b><br>
+     a. DDL Commands<br>
+     b.  DML & SELECT Queries<br>
+     c. ORDER BY & GROUP BY<br>
+     d. Joins & SubQueries<br>
+     e. Window Functions & CTEs<br>
+     f. Views & Temporary tables<br>
+     g. Functions & Procedures<br>
