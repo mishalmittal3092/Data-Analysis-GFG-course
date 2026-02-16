@@ -10,3 +10,4 @@ Table Of Contents:<b>
      e. Window Functions & CTEs<br>
      f. Views & Temporary tables<br>
      g. Functions & Procedures<br>
+     h. Data Cleaning with MYSQL<br>
