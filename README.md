@@ -10,4 +10,7 @@ Table Of Contents:<b>
      e. Window Functions & CTEs<br>
      f. Views & Temporary tables<br>
      g. Functions & Procedures<br>
-     h. Data Cleaning with MYSQL<br>
+     h. Data Cleaning with MYSQL<br><b>
+2. Core Python:</b><br>
+     a. LOOPS<br>
+     
