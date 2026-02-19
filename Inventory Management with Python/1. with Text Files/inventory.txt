@@ -1,0 +1,5 @@
+1,kings oil,1l,120,5
+2,kings oil,2l,240,0
+3,sanjeevani oil,5l,680,0
+4,do phool,2l,300,7
+5,fortune oil,5l,800,0
