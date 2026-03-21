@@ -11,9 +11,10 @@ Table Of Contents:<b>
      f. Views & Temporary tables<br>
      g. Functions & Procedures<br>
      h. Data Cleaning with MYSQL<br><b>
-2. Core Python:</b><br>
-     a. LOOPS<br><b>
-3. Inventory Management with Python:</b><br>
+2. Inventory Management with Python:</b><br>
      a. With Text Files<br>
-     b. With JSON Files
+     b. With JSON Files<br><b>
+3. Data Analytics With Python:</b><br>
+     a. Data Cleaning<br>
+     b. Handling Outliers (z-score, IQR, Percentile)<br>
      
