@@ -16,5 +16,6 @@ Table Of Contents:<b>
      b. With JSON Files<br><b>
 3. Data Analytics With Python:</b><br>
      a. Data Cleaning<br>
-     b. Handling Outliers (z-score, IQR, Percentile)<br>
+     b. Handling Outliers (z-score, IQR, Percentile)<br><b>
+4. PANDAS Library Functions</b>
      
