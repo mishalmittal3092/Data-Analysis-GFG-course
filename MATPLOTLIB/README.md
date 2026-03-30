@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XX989YgUTqAc_Kc3cnxbC5WFZgJdC9G0?usp=sharing)
+
+# <center> MATPLOTLIB </center>
 ### Table of Contents:
 
 - [1. Importing Libraries](#Importing)
